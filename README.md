@@ -1,1 +1,2 @@
 # Typewar
+An application developed with Java swing and socket programming with Java where two users using different computers can connect with IP address and compete in a typing race. The same words appear sequentially on both computers and the users have their own health bars. A user can inflict damage on the other by correctly typing the word on their screen. The one who loses all their health loses the game.
